@@ -1,0 +1,21 @@
+{
+    "player": {
+      "id": 1,
+      "name": "LeBron James",
+      "description": "Een van de beste basketballers aller tijden, bekend om zijn veelzijdigheid en atletisch vermogen.",
+      "age": 39,
+      "active": true,
+      "birthdate": "1984-12-30",
+      "image_url": "https://example.com/lebron.jpg",
+      "position": "Forward",
+      "hobbies": ["Films kijken", "Fitness", "Reizen"],
+      "team": {
+        "id": 101,
+        "name": "Los Angeles Lakers",
+        "city": "Los Angeles",
+        "championships_won": 17,
+        "logo_url": "https://example.com/lakers_logo.jpg"
+      }
+    }
+  }
+  

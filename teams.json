@@ -1,0 +1,19 @@
+{
+    "team": {
+      "id": 101,
+      "name": "Los Angeles Lakers",
+      "city": "Los Angeles",
+      "founded": 1947,
+      "arena": "Crypto.com Arena",
+      "championships_won": 17,
+      "logo_url": "https://example.com/lakers_logo.jpg",
+      "colors": ["Paars", "Goud", "Wit"],
+      "coach": {
+        "id": 201,
+        "name": "Darvin Ham",
+        "experience_years": 2,
+        "former_player": true
+      }
+    }
+  }
+  
