@@ -1,21 +1,184 @@
-{
-    "player": {
-      "id": 1,
-      "name": "LeBron James",
-      "description": "Een van de beste basketballers aller tijden, bekend om zijn veelzijdigheid en atletisch vermogen.",
-      "age": 39,
-      "active": true,
-      "birthdate": "1984-12-30",
-      "image_url": "https://example.com/lebron.jpg",
-      "position": "Forward",
-      "hobbies": ["Films kijken", "Fitness", "Reizen"],
-      "team": {
-        "id": 101,
-        "name": "Los Angeles Lakers",
-        "city": "Los Angeles",
-        "championships_won": 17,
-        "logo_url": "https://example.com/lakers_logo.jpg"
-      }
+[
+  {
+    "id": 1,
+    "name": "LeBron James",
+    "description": "Een van de beste basketballers aller tijden, bekend om zijn veelzijdigheid en atletisch vermogen.",
+    "age": 40,
+    "active": true,
+    "birthdate": "1984-12-30",
+    "image_url": "https://a.espncdn.com/combiner/i?img=/i/headshots/nba/players/full/1966.png&w=350&h=254",
+    "position": "Forward",
+    "hobbies": ["Films kijken", "Fitness", "Reizen"],
+    "team": {
+      "id": 101,
+      "name": "Los Angeles Lakers",
+      "city": "Los Angeles",
+      "championships_won": 17,
+      "logo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Los_Angeles_Lakers_logo.svg/375px-Los_Angeles_Lakers_logo.svg.png"
+    }
+  },
+  {
+    "id": 2,
+    "name": "Luka Dončić",
+    "description": "Sloveense point guard, nu een spil voor de Los Angeles Lakers na recente ruil.",
+    "age": 25,
+    "active": true,
+    "birthdate": "1999-02-28",
+    "image_url": "https://a.espncdn.com/combiner/i?img=/i/headshots/nba/players/full/3945274.png&w=350&h=254",
+    "position": "Point Guard",
+    "hobbies": ["Auto's verzamelen", "Videogames", "Muziek luisteren"],
+    "team": {
+      "id": 101,
+      "name": "Los Angeles Lakers",
+      "city": "Los Angeles",
+      "championships_won": 17,
+      "logo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Los_Angeles_Lakers_logo.svg/375px-Los_Angeles_Lakers_logo.svg.png"
+    }
+  },
+  {
+    "id": 3,
+    "name": "Ayo Dosunmu",
+    "description": "Jonge guard met veel potentieel, snel en wendbaar op het veld.",
+    "age": 23,
+    "active": true,
+    "birthdate": "2001-11-15",
+    "image_url": "https://a.espncdn.com/combiner/i?img=/i/headshots/nba/players/full/4397002.png&w=350&h=254",
+    "position": "Guard",
+    "hobbies": ["Videogames", "Muziek luisteren", "Fitness"],
+    "team": {
+      "id": 103,
+      "name": "Chicago Bulls",
+      "city": "Chicago",
+      "championships_won": 6,
+      "logo_url": "https://upload.wikimedia.org/wikipedia/en/thumb/6/67/Chicago_Bulls_logo.svg/300px-Chicago_Bulls_logo.svg.png"
+    }
+  },
+  {
+    "id": 11,
+    "name": "Lonzo Ball",
+    "description": "Bekend om zijn uitstekende passing en defensieve vaardigheden, brengt hij een unieke visie naar het spel.",
+    "age": 27,
+    "active": true,
+    "birthdate": "1997-10-27",
+    "image_url": "https://a.espncdn.com/combiner/i?img=/i/headshots/nba/players/full/4066421.png&w=350&h=254",
+    "position": "Point Guard",
+    "hobbies": ["Videogames", "Muziek luisteren", "Fitness"],
+    "team": {
+      "id": 103,
+      "name": "Chicago Bulls",
+      "city": "Chicago",
+      "championships_won": 6,
+      "logo_url": "https://upload.wikimedia.org/wikipedia/en/thumb/6/67/Chicago_Bulls_logo.svg/300px-Chicago_Bulls_logo.svg.png"
+    }
+  },
+  {
+    "id": 5,
+    "name": "Nikola Jokić",
+    "description": "Servische center bekend om zijn uitzonderlijke passing en basketbal-IQ.",
+    "age": 30,
+    "active": true,
+    "birthdate": "1995-02-19",
+    "image_url": "https://a.espncdn.com/combiner/i?img=/i/headshots/nba/players/full/3112335.png&w=350&h=254",
+    "position": "Center",
+    "hobbies": ["Videogames", "Reizen", "Familietijd"],
+    "team": {
+      "id": 104,
+      "name": "Denver Nuggets",
+      "city": "Denver",
+      "championships_won": 1,
+      "logo_url": "https://upload.wikimedia.org/wikipedia/en/thumb/7/76/Denver_Nuggets.svg/300px-Denver_Nuggets.svg.png"
+    }
+  },
+  {
+    "id": 6,
+    "name": "Jamal Murray",
+    "description": "Canadese shooting guard bekend om clutch shooting en playmaking.",
+    "age": 27,
+    "active": true,
+    "birthdate": "1997-02-23",
+    "image_url": "https://a.espncdn.com/combiner/i?img=/i/headshots/nba/players/full/3936299.png&w=350&h=254",
+    "position": "Shooting Guard",
+    "hobbies": ["Films kijken", "Muziek luisteren", "Fitness"],
+    "team": {
+      "id": 104,
+      "name": "Denver Nuggets",
+      "city": "Denver",
+      "championships_won": 1,
+      "logo_url": "https://upload.wikimedia.org/wikipedia/en/thumb/7/76/Denver_Nuggets.svg/300px-Denver_Nuggets.svg.png"
+    }
+  },
+  {
+    "id": 7,
+    "name": "Ja Morant",
+    "description": "Explosieve point guard met indrukwekkende atletische vaardigheden.",
+    "age": 25,
+    "active": true,
+    "birthdate": "1999-08-10",
+    "image_url": "https://a.espncdn.com/combiner/i?img=/i/headshots/nba/players/full/4279888.png&w=350&h=254",
+    "position": "Point Guard",
+    "hobbies": ["Videogames", "Muziek luisteren", "Reizen"],
+    "team": {
+      "id": 102,
+      "name": "Memphis Grizzlies",
+      "city": "Memphis",
+      "championships_won": 0,
+      "logo_url": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f1/Memphis_Grizzlies.svg/285px-Memphis_Grizzlies.svg.png"
+    }
+  },
+  {
+    "id": 8,
+    "name": "Jaren Jackson Jr.",
+    "description": "Verdedigende krachtpatser bekend om zijn shot-blocking en driepuntschot.",
+    "age": 25,
+    "active": true,
+    "birthdate": "1999-09-15",
+    "image_url": "https://a.espncdn.com/combiner/i?img=/i/headshots/nba/players/full/4277961.png&w=350&h=254",
+    "position": "Power Forward",
+    "hobbies": ["Muziek luisteren", "Videogames", "Reizen"],
+    "team": {
+      "id": 102,
+      "name": "Memphis Grizzlies",
+      "city": "Memphis",
+      "championships_won": 0,
+      "logo_url": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f1/Memphis_Grizzlies.svg/285px-Memphis_Grizzlies.svg.png"
+    }
+  },
+  {
+    "id": 9,
+    "name": "Victor Wembanyama",
+    "description": "Franse center bekend om zijn lengte, behendigheid en enorm potentieel.",
+    "age": 22,
+    "active": true,
+    "birthdate": "2004-01-04",
+    "image_url": "https://a.espncdn.com/combiner/i?img=/i/headshots/nba/players/full/5104157.png&w=350&h=254",
+    "position": "Center",
+    "hobbies": ["Videogames", "Films kijken", "Reizen"],
+    "team": {
+      "id": 105,
+      "name": "San Antonio Spurs",
+      "city": "San Antonio",
+      "championships_won": 5,
+      "logo_url": "https://upload.wikimedia.org/wikipedia/en/thumb/a/a2/San_Antonio_Spurs.svg/360px-San_Antonio_Spurs.svg.png"
+    }
+  },
+  {
+    "id": 10,
+    "name": "De'Aaron Fox",
+    "description": "Snelle point guard met uitstekend scorend vermogen en playmaking vaardigheden.",
+    "age": 27,
+    "active": true,
+    "birthdate": "1997-12-20",
+    "image_url": "https://a.espncdn.com/combiner/i?img=/i/headshots/nba/players/full/4066259.png&w=350&h=254",
+    "position": "Point Guard",
+    "hobbies": ["Videogames", "Muziek luisteren", "Fitness"],
+    "team": {
+      "id": 105,
+      "name": "San Antonio Spurs",
+      "city": "San Antonio",
+      "championships_won": 5,
+      "logo_url": "https://upload.wikimedia.org/wikipedia/en/thumb/a/a2/San_Antonio_Spurs.svg/360px-San_Antonio_Spurs.svg.png"
     }
   }
+]
+
   

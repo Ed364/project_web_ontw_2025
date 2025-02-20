@@ -1,19 +1,54 @@
-{
-    "team": {
-      "id": 101,
-      "name": "Los Angeles Lakers",
-      "city": "Los Angeles",
-      "founded": 1947,
-      "arena": "Crypto.com Arena",
-      "championships_won": 17,
-      "logo_url": "https://github.com/Ed364/project_web_ontw_2025/blob/main/lakers_logo.jpg",
-      "colors": ["Paars", "Goud", "Wit"],
-      "coach": {
-        "id": 201,
-        "name": "J.J. Redick",
-        "experience_years": 1,
-        "former_player": true
-      }
-    }
+[
+  {
+    "id": 101,
+    "name": "Los Angeles Lakers",
+    "city": "Los Angeles",
+    "founded": 1947,
+    "arena": "Crypto.com Arena",
+    "championships_won": 17,
+    "logo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Los_Angeles_Lakers_logo.svg/375px-Los_Angeles_Lakers_logo.svg.png",
+    "colors": ["Paars", "Goud", "Wit"]
+  },
+  {
+    "id": 102,
+    "name": "Chicago Bulls",
+    "city": "Chicago",
+    "founded": 1966,
+    "arena": "United Center",
+    "championships_won": 6,
+    "logo_url": "https://upload.wikimedia.org/wikipedia/en/thumb/6/67/Chicago_Bulls_logo.svg/300px-Chicago_Bulls_logo.svg.png",
+    "colors": ["Rood", "Zwart", "Wit"]
+  },
+  {
+    "id": 103,
+    "name": "Denver Nuggets",
+    "city": "Denver",
+    "founded": 1967,
+    "arena": "Ball Arena",
+    "championships_won": 1,
+    "logo_url": "https://upload.wikimedia.org/wikipedia/en/thumb/7/76/Denver_Nuggets.svg/300px-Denver_Nuggets.svg.png",
+    "colors": ["Blauw", "Goud", "Rood"]
+  },
+  {
+    "id": 104,
+    "name": "Memphis Grizzlies",
+    "city": "Memphis",
+    "founded": 1995,
+    "arena": "FedExForum",
+    "championships_won": 0,
+    "logo_url": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f1/Memphis_Grizzlies.svg/285px-Memphis_Grizzlies.svg.png",
+    "colors": ["Blauw", "Goud", "Wit"]
+  },
+  {
+    "id": 105,
+    "name": "San Antonio Spurs",
+    "city": "San Antonio",
+    "founded": 1967,
+    "arena": "Frost Bank Center",
+    "championships_won": 5,
+    "logo_url": "https://upload.wikimedia.org/wikipedia/en/thumb/a/a2/San_Antonio_Spurs.svg/360px-San_Antonio_Spurs.svg.png",
+    "colors": ["Zwart", "Zilver", "Wit"]
   }
+]
+
   
